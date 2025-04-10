@@ -1,0 +1,8 @@
+# Frontend (Next.js)  
+node_modules/  
+.next/  
+.env.local  
+
+# Backend (Strapi)  
+.env  
+.sass-cache/  
